@@ -1,8 +1,8 @@
-import yfinance as yf
+hi import yfinance as yf
 import pandas as pd
 import requests, time
 from datetime import datetime
-
+by
 # ====== YOUR LIVE DETAILS - ALREADY FILLED ======
 PHONE = "+27685933351"
 APIKEY = "9118355"
@@ -106,4 +106,4 @@ def run():
         time.sleep(300)
 
 if __name__ == "__main__":
-    run()9118355
+    run()
